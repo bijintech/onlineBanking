@@ -1,0 +1,215 @@
+.login_section_header {
+    margin-bottom: 20px;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+
+.login_section_header {
+    margin-bottom: 20px;
+}
+
+.form-control2 {
+    width: 100%;
+    height: 45px;
+    font-size: 14px;
+    color: #646464;
+    border: 1px solid #d9d9d9;
+    padding: 10px 50px 10px 20px;
+    background: transparent;
+    transition: all 500ms ease;
+}
+
+.display_block {
+    display: block;
+}
+
+.small_login_talk {
+    margin-bottom: 30px;
+    font-size: 13px;
+    line-height: 1.6;
+}
+
+.login_section_header {
+    font-family: poppins;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-bottom: 5px solid #f8952c;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.form-group label {
+    font-size: 13px;
+}
+
+.step_options .bs-stepper-label {
+    font-size: 12px;
+}
+
+.bs-stepper .line, .bs-stepper-line {
+    flex: 1 0 12px !important;
+}
+
+.bs-stepper-header.control_step_header {
+    margin-bottom: 20px;
+}
+
+.btn.stepper_btn {
+    background: #f8952c;
+    color: #fff;
+    font-size: 13px;
+    width: 100px;
+    height: 38px;
+}
+
+.active .bs-stepper-circle {
+    background-color: #f8952c !important;
+}
+
+.form-control2.date {
+    font-size: 13px;
+    color: #646464 !important;
+    padding-right: 15px;
+}
+
+.form-control2.selectwide.ignore {
+    color: #646446;
+}
+
+.btn.step-trigger:hover:active:focus {
+    border: 0 !important;
+    box-shadow: none !important;
+}
+
+.btn.step-trigger:active:focus {
+    border: 0 !important;
+    box-shadow: none !important;
+}
+
+.theme-btn.style-one-black.display_block.mt-3 {
+    background: #555;
+    width: 100%;
+}
+
+.theme-btn.style-two-green.display_block {
+    width: 100%;
+    background: #063c83;
+}
+
+.swal2-header .swal2-icon.swal2-error.swal2-icon-show {
+    font-size: 10px;
+}
+
+.swal2-header #swal2-title {
+    font-size: 26px;
+}
+
+#swal2-content {
+    font-size: 14px;
+}
+
+.swal2-confirm.swal2-styled {
+    font-size: 12px !important;
+    width: 100px;
+    height: 39px;
+    padding: 0 !important;
+    background: #063c83
+}
+
+.alert_er {
+    margin-bottom: 30px;
+    font-size: 12px;
+    line-height: 1.6;
+    background: #6a89cc;
+    padding: 10px 20px;
+    color: #fff;
+    border-left: 10px solid #352f2f;
+}
+
+.main-menu .navigation > li > a {
+    font-size: 13px !important;
+}
+
+.navigation.clearfix li a:hover {
+    color: #f8952c !important;
+}
+.main-header.style-two .header-upper .info-box .info-list li p {
+    font-size: 13px;
+}
+
+.other_auth_option {
+    margin-top: 30px;
+    font-size: 12px;
+}
+
+.er {
+    font-size: 11px;
+    margin-top: 6px;
+    color: #e74c3c;
+}
+
+.cfix h5 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.products__item h4 {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.cfix {
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.info-section{
+    background: #f0f5f9;
+}
+
+.page-title {
+    position: relative;
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 220px 0 !important;
+}
+
+#accordion {
+    margin-top: 30px;
+}
+
+#accordion .card-header {
+    background: #cccc;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    border: 0 !important;
+    padding: 10px 5px;
+}
+
+#accordion .card {
+    margin-bottom: 20px;
+}
+
+.card-header button {
+    font-size: 12px;
+    color: #232323;
+    font-weight: 600;
+}
+
+@media only screen and (max-width:768px ){
+    .main-header.style-two .logo-box {
+        float: none !important;
+    }
+
+    .info-list.clearfix{
+        display: none !important;
+    }
+}
+
+.card-body p {
+    font-size: 13px;
+}

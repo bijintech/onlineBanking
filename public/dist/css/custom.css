@@ -1,0 +1,212 @@
+.fixed-sidebar-left .side-nav {
+    overflow-x: hidden;
+}
+
+.user_profile_image {
+    width: 100px;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.user_profile_image img {
+    width: 100%;
+    height: 100px;
+}
+
+.user_profile_image img {
+    border-radius: 100%;
+    object-fit: cover;
+    object-position: center;
+    border: 5px solid #f4f4f4;
+}
+
+.tab-struct .tab-pane {
+    padding-top: 35px;
+}
+
+.tab-struct.custom-tab-1 .control-label.mb-10 {
+    font-size: 13px;
+    color: #646446;
+}
+
+.display_block_1 {
+    display: block;
+    width: 100%;
+}
+
+.er {
+    font-size: 12px;
+    color: red;
+    padding-top: 10px;
+}
+
+.product-rating a {
+    color: #2a3e4c;
+    margin-right: 5px;
+}
+
+
+.recover_headline {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+.recover_outline {
+    margin-bottom: 20px;
+}
+
+.recover_outline ul li {
+    list-style: disc;
+}
+.recover_outline ul {
+    margin-left: 20px;
+}
+
+.recover_action_btn {
+    background: #4aa23c;
+    width: 100%;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #fff;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 3px;
+    border: 0;
+}
+
+.recover_action_btn:hover {
+    background: #2a3e4c;
+    color: #fff;
+}
+
+.customer_review_avatar img {
+    width: 100%;
+}
+
+.customer_review_details {
+    background: #efefef;
+    padding: 10px 20px;
+    border-radius: 3px;
+}
+
+.reviewed_name {
+    margin-bottom: 5px;
+    text-transform: capitalize;
+}
+
+.reviewd-data {
+    margin-bottom: 10px;
+}
+
+.customer_review_sections.clearfix {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.customer_review_details::after {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background: #efefef;
+    left: 8px;
+    top: 14px;
+    content: " ";
+    transform: rotate(45deg);
+}
+
+.descri_tab_detail_22 {
+    height: 500px;
+    overflow: auto;
+}
+
+.user-has_no_case {
+    margin-top: 80px;
+    text-align: center;
+    margin-bottom: 80px;
+    font-size: 13px;
+}
+
+.case_stats {
+    border: 0;
+    font-size: 12px;
+    padding: 4px 16px;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.case_stats.in_progress{
+    background: red;
+}
+.case_stats.completed{
+    background: #4aa23c;
+}
+
+.digital_coin_div {
+    margin-top: 20px;
+}
+
+.form-control::placeholder {
+    text-transform: none;
+}
+
+.small_pan_wallet_info {
+    background: #f4f4f4;
+    padding: 20px;
+    border-radius: 3px;
+    font-size: 14px;
+    color: #000;
+    margin-bottom: 20px;
+}
+
+.small_pen_pan_name {
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.payment_detail_instruction {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.transaction_ini_type {
+    text-align: center;
+}
+
+.panel-body.transaction_body_section b {
+    font-weight: 600;
+}
+
+.case_stats.confirmed {
+    background: #4aa23c;
+}
+
+.case_stats.processing {
+    background: #f8b32d;
+}
+
+.the_actional_link {
+    color: #80a1b6;
+}
+
+.amount_in_usdd {
+    color: #4aa23c;
+    font-size: 13px;
+}
+
+/*.hover_change_info {*/
+    /*width: 100px;*/
+    /*height: 50px;*/
+    /*position: absolute;*/
+    /*background: rgba(136, 131, 131, 0.3);*/
+    /*bottom: 57px;*/
+    /*border-bottom-left-radius: 100px;*/
+    /*border-bottom-right-radius: 100px;*/
+    /*text-align: center;*/
+    /*padding-top: 15px;*/
+/*}*/
